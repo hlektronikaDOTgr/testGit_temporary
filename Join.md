@@ -1,6 +1,4 @@
-Open invitation email on Gmail, Yahoo etc
-
-Click link
+Open invitation email on Gmail, Yahoo etc'\n'Click link
 
 Click green button
 
