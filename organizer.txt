@@ -8,7 +8,7 @@
 
 
 
-Tedi(Ηλάς)                C/C++, ΑSM            AVR
+Tedi(Ηλίάς)                C/C++, ΑSM            AVR
 
 
 
