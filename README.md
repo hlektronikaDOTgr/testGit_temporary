@@ -1,11 +1,8 @@
 ***Προς τα μέλη του hlektronika.gr αυτό είναι ένα προσωρινό project απλά για να παίξουμε με το git μέχρι να βρούμε στόχο.***
 
-Open invitation email on Gmail, Yahoo etc
+*Οδηγίες*
 
-Click link
-
-Click green button
-
-You joined the club :)
-
-**Hello World**
+1. Ανοίξτε το προσωπικό σας email(Yahoo, Google) όπου θα λάβετε εκεί την πρόσκληση μετά από
+2. Επιλέξτε τον σύνδεσμο.
+3. Πατήστε το πράσινο κουμπί.
+4. Καλως ήρθατε στην ομάδα. :)
