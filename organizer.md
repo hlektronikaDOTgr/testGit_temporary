@@ -1,14 +1,5 @@
 [styling](https://guides.github.com/features/mastering-markdown/)
 
-
-
-
-O Panoss ήταν χρόνια κομματικό μέλος του ΚΚΕ.
-
-Το 2005-20016 συμμετείχε ενεργά στην επαναφορά του κομμουνισμού μέσα από το [hlektronika.gr](http://www.hlektronika.gr/forum/showthread.php?t=79043) :stuck_out_tongue:
-
-
-
 1. AVR
     * mega
     * tiny
